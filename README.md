@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amg2013/problem_solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,12 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
+## Two Pointers
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
