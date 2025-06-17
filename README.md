@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
@@ -44,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Amg2013/problem_solving/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Matrix
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
