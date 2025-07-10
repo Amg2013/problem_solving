@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amg2013/problem_solving/tree/master/0583-delete-operation-for-two-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amg2013/problem_solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amg2013/problem_solving/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amg2013/problem_solving/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
