@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amg2013/problem_solving/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/Amg2013/problem_solving/tree/master/0454-4sum-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amg2013/problem_solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amg2013/problem_solving/tree/master/0001-two-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Amg2013/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0454-4sum-ii](https://github.com/Amg2013/problem_solving/tree/master/0454-4sum-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
