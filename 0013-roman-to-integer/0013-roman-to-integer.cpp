@@ -1,27 +1,29 @@
 class Solution {
 public:
-    int char2num(char a) {
-        switch (a) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: return 0;
-        }
-    }
-
     int romanToInt(string s) {
-        int result = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (i + 1 < s.length() && char2num(s[i]) < char2num(s[i + 1])) {
-                result -= char2num(s[i]);
-            } else {
-                result += char2num(s[i]);
-            }
+        int sum=0;
+        map<char,int>m; 
+         m['I']=1; m['V']=5; m['X']=10; m['L']=50; m['C']=100; m['D']=500; m['M']=1000;
+
+      if(s.size()==1)
+      {
+        return m[s[0]];
+      }
+
+      sum+=m[s[0]];
+        for(int i=1;i<s.size();i++)
+        {
+         if(m[s[i]]>m[s[i-1]])
+         {
+            sum-=m[s[i-1]];
+          sum+=(m[s[i]]-m[s[i-1]]);
+         }
+         else{
+            sum+=m[s[i]];
+
+         }
         }
-        return result;
+
+        return sum;
     }
 };
