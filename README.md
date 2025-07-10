@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amg2013/problem_solving/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Amg2013/problem_solving/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/Amg2013/problem_solving/tree/master/0454-4sum-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amg2013/problem_solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amg2013/problem_solving/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amg2013/problem_solving/tree/master/0583-delete-operation-for-two-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amg2013/problem_solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amg2013/problem_solving/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
