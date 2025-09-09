@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Amg2013/problem_solving/tree/master/0070-climbing-stairs) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amg2013/problem_solving/tree/master/0583-delete-operation-for-two-strings) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Amg2013/problem_solving/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Simulation
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Amg2013/problem_solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amg2013/problem_solving/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Amg2013/problem_solving/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Amg2013/problem_solving/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amg2013/problem_solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
